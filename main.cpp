@@ -46,4 +46,5 @@ int main()
 	FILE* out = fopen("output.txt", "w");
 	fprintf(out, "%d", expe[n]);
 	return 0;
+	return 0;
 }
